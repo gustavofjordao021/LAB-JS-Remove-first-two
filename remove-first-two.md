@@ -11,4 +11,4 @@ const arr = removeFirstTwo(source);
 console.log(arr); // should be [3,4,5,6,7,8,9,10]
 console.log(source); // should be [1,2,3,4,5,6,7,8,9,10];
 ```
-[Solution]()
+[Solution](https://gist.github.com/sandrabosk/d80e17e2ebeed01d4b07b9b27ead5b36)
