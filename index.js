@@ -4,7 +4,7 @@
 const source = [1,2,3,4,5,6,7,8,9,10];
 
 function removeFirstTwo(list) {
-  let [a, b, ...array] = list;
+  let [index1, index2, ...array] = list;
   return array;
 }
 
